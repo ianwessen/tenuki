@@ -1,4 +1,4 @@
 client/node_modules
-client/dist/
+client/dist
 client/package-lock.json
 server/node_modules
